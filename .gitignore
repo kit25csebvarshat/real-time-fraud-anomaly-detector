@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build folders
+build/
+coverage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific
+backend/oauthguard.db
